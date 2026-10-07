@@ -155,6 +155,6 @@ Nội dung bài học tập trung vào kỹ năng chẩn đoán và khắc phụ
 
 <p align="center">
   <a target="_blank">
-    <img src="./images/Capture.PNG"  height="60" style="border-radius: 8px; padding: 4px; background: #ffffff;" />
+    <img src="./images/Capture.PNG"" />
   </a>
 </p>
